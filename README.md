@@ -1,8 +1,14 @@
 ﻿# VFX Painting
 
-[![](https://github.com/peartreegames/vfx-painting/blob/main/Docs/thumbnail-editor.png)](https://github.com/peartreegames/vfx-painting/blob/main/Docs/Painting_Editor_Trim.mp4)
 
-[![](https://github.com/peartreegames/vfx-painting/blob/main/Docs/thumbnail-field.png)](https://github.com/peartreegames/vfx-painting/blob/main/Docs/Painting_Editor_Field_Trim.mp4)
+
+https://github.com/peartreegames/vfx-painting/assets/4956121/9701a81f-f930-4e73-bfba-ff48d29d271c
+
+
+
+
+https://github.com/peartreegames/vfx-painting/assets/4956121/c3a0bf7a-945f-46f2-89b1-d905324fc141
+
 
 More for an art project than a game, as the performance isn't that great (understandably).
 
