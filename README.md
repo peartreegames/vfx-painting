@@ -1,14 +1,8 @@
 ﻿# VFX Painting
 
+https://github.com/peartreegames/vfx-painting/assets/4956121/70565986-663b-4c6f-a528-ed553a5c2c45
 
-
-https://github.com/peartreegames/vfx-painting/assets/4956121/9701a81f-f930-4e73-bfba-ff48d29d271c
-
-
-
-
-https://github.com/peartreegames/vfx-painting/assets/4956121/c3a0bf7a-945f-46f2-89b1-d905324fc141
-
+https://github.com/peartreegames/vfx-painting/assets/4956121/463af9a6-d293-407e-8ba5-14fbe52bb73f
 
 More for an art project than a game, as the performance isn't that great (understandably).
 
